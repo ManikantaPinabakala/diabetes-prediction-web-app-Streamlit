@@ -10,6 +10,8 @@ This web app will do the following:
 
 - **`Visualise Decision Tree Page:`** Displays the correlation heatmap, confusion matrix plot and a decision tree plot.
 
+<hr />
+
 ### Things covered
 
 1. Designing the **Home page** of the web app to display the raw dataset and other metadata.
@@ -24,6 +26,8 @@ This web app will do the following:
  - Display the `confusion matrix` plot to get the performance of the classifier.
  - Visualise the classifier with the help of an actual `decision tree plot`.
 
-Click on the below thumbnail to view the demo of the app.
+<hr />
+
+Click on the below thumbnail to download a video demo of the app:
 
 [![Watch the video](https://raw.githubusercontent.com/ManikantaPinabakala/diabetes-prediction-web-app-Streamlit/main/diabetes_app_thumbnail.png)](https://raw.githubusercontent.com/ManikantaPinabakala/diabetes-prediction-web-app-Streamlit/main/diabetes_app.mp4)
