@@ -23,3 +23,7 @@ This web app will do the following:
  - Get the top correlated features using a `correlation heatmap`.
  - Display the `confusion matrix` plot to get the performance of the classifier.
  - Visualise the classifier with the help of an actual `decision tree plot`.
+
+Click on the below thumbnail to view the demo of the app.
+
+[![Watch the video](https://raw.githubusercontent.com/ManikantaPinabakala/diabetes-prediction-web-app-Streamlit/main/diabetes_app_thumbnail.png)](https://raw.githubusercontent.com/ManikantaPinabakala/diabetes-prediction-web-app-Streamlit/main/diabetes_app.mp4)
